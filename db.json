@@ -1,35 +1,37 @@
-{ events: [       
+{ 
+    "events": [
         {
-        id: 5928101,
-        category: 'animal welfare',
-        title: 'Cat Adoption Day',
-        description: 'Find your new feline friend at this event',
-        location: 'Meow Town',
-        date: 'January 28, 2022',
-        time: '12:00',
-        petsAllowed: true,
-        organizer: 'Kat Laydee'
+        "id": 469,
+        "category": "animal welfare",
+        "title": "Cat Adoption Day",
+        "description": "Find your new feline friend at this event",
+        "location": "Meow Town",
+        "date": "January 28, 2022",
+        "time": "12:00",
+        "petsAllowed": true,
+        "organizer": "Kat Laydee"
         },
         {
-        id: 5928101,
-        category: 'animal welfare',
-        title: 'Cat Adoption Day',
-        description: 'Find your new feline friend at this event',
-        location: 'Meow Town',
-        date: 'January 28, 2022',
-        time: '12:00',
-        petsAllowed: true,
-        organizer: 'Albert Einstein'
+        "id": 328,
+        "category": "animal welfare",
+        "title": "Cat Adoption Day 1",
+        "description": "Find your new feline friend at this event",
+        "location": "Meow Town 1",
+        "date": "January 28, 2023",
+        "time": "12:00",
+        "petsAllowed": true,
+        "organizer": "Albert Einstein"
         },
         {
-        id: 5928101,
-        category: 'animal welfare',
-        title: 'Cat Adoption Day',
-        description: 'Find your new feline friend at this event',
-        location: 'Meow Town',
-        date: 'January 28, 2022',
-        time: '12:00',
-        petsAllowed: true,
-        organizer: 'Hilbert Hummel'
-        }]
+        "id": 457,
+        "category": "animal welfare",
+        "title": "Cat Adoption Day 3",
+        "description": "Find your new feline friend at this event",
+        "location": "Meow Town 3",
+        "date": "January 28, 2024",
+        "time": "12:00",
+        "petsAllowed": true,
+        "organizer": "Hansel Hilbert"
+        }
+    ]
 }
