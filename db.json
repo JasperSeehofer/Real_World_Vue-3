@@ -1,4 +1,5 @@
-[       {
+{ events: [       
+        {
         id: 5928101,
         category: 'animal welfare',
         title: 'Cat Adoption Day',
@@ -30,5 +31,5 @@
         time: '12:00',
         petsAllowed: true,
         organizer: 'Hilbert Hummel'
-        }
-]
+        }]
+}
